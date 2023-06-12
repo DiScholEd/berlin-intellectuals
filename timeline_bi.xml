@@ -1,0 +1,572 @@
+<timeline>
+    <date when="1829-12-31">
+        <ref target="Boeckh_Buchkatalog.xml" title="Catalogue of my books" folder_name="bi"/>
+    </date>
+    <date when="1812-04-13">
+        <ref target="Boeckh_Plan.xml" title="Plan for arranging the philological seminar at the university of Berlin (copy)" folder_name="bi"/>
+    </date>
+    <date when="1812-05-28">
+        <ref target="Boeckh_Reglement.xml" title="Regulations for the philological seminar at the university of Berlin" folder_name="bi"/>
+    </date>
+    <date when="1812-08-21">
+        <ref target="Brief001Boeckh.xml" title="Annual report of August Boeckh to the Ministry of the Interior (Berlin, 21 August 1812)" folder_name="bi"/>
+    </date>
+    <date when="1810-07-01">
+        <ref target="Brief001ChamissoandeLaFoye.xml" title="Letter from Helmina von Chézy to Adelbert von Chamisso, copy of Adelbert von Chamisso sent to Louis de la Foye (probably Montmorency, between end of July and 14                     September 1810)" folder_name="bi"/>
+    </date>
+    <date when="1817-11-13">
+        <ref target="Brief001fichteanfakultaet.xml" title="Letter from Immanuel Hermann Fichte to the dean and the faculty of philosophy (Berlin, 13 November 1817)" folder_name="bi"/>
+    </date>
+    <date when="1812-09-03">
+        <ref target="Brief002Boeckh.xml" title="Letter from the Ministry of the Interior to August Boeckh (Berlin, 3 September 1812)" folder_name="bi"/>
+    </date>
+    <date when="1804-01-01">
+        <ref target="Brief002ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (without place, between 1804 and 1806)" folder_name="bi"/>
+    </date>
+    <date when="1817-11-24">
+        <ref target="Brief002wilkenanfakultaet.xml" title="Letter from Friedrich Wilken to the faculty of philosophy (Berlin, 24 November 1817)" folder_name="bi"/>
+    </date>
+    <date when="1813-09-26">
+        <ref target="Brief003Boeckh.xml" title="Annual report of August Boeckh to the Ministry of the Interior (Berlin, 26 September 1813)" folder_name="bi"/>
+    </date>
+    <date when="1804-12-31">
+        <ref target="Brief003ChamissoandeLaFoye.xml" title="Anthology of 1804" folder_name="bi"/>
+    </date>
+    <date when="1817-12-17">
+        <ref target="Brief003fakultaetssitzung.xml" title="Letter from Friedrich Wilken to the faculty of philosophy (17 December 1817)" folder_name="bi"/>
+    </date>
+    <date when="1814-08-24">
+        <ref target="Brief004Boeckh.xml" title="Annual report of August Boeckh to the Ministry of the Interior (Berlin, 26 August 1814)" folder_name="bi"/>
+    </date>
+    <date when="1805-01-01">
+        <ref target="Brief004ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (probably Berlin, probably spring 1805)" folder_name="bi"/>
+    </date>
+    <date when="1818-03-25">
+        <ref target="Brief004wilkenanboeckh.xml" title="Letter from Friedrich Wilken to the faculty of philosophy (Berlin, 25 March 1818)" folder_name="bi"/>
+    </date>
+    <date when="1812-05-28">
+        <ref target="Brief005Boeckh.xml" title="Letter from the Ministry of the Interior to August Boeckh (Berlin, 28 May 1812)" folder_name="bi"/>
+    </date>
+    <date when="1804-06-26">
+        <ref target="Brief005ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (fragment) (without place, 26 june 1804)" folder_name="bi"/>
+    </date>
+    <date when="1817-12-12">
+        <ref target="Brief005fichteanfakultaet.xml" title="Letter from Immanuel Hermann Fichte to the faculty of philosophy (Berlin, 12 December 1817)" folder_name="bi"/>
+    </date>
+    <date when="1822-11-11">
+        <ref target="Brief006Boeckh.xml" title="Letter from the Ministry of Culture to August Boeckh (Berlin, 11 November 1822)" folder_name="bi"/>
+    </date>
+    <date when="1804-08-15">
+        <ref target="Brief006ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (Berlin, 15 august 1804)" folder_name="bi"/>
+    </date>
+    <date when="1818-03-26">
+        <ref target="Brief006fichteanfakultaet.xml" title="Letter from Immanuel Hermann Fichte to the faculty of philosophy (Berlin, 26 March 1818)" folder_name="bi"/>
+    </date>
+    <date when="1822-11-14">
+        <ref target="Brief007Boeckh.xml" title="Letter of August Boeckh to the Ministry of Culture (Berlin, 14 November 1822)" folder_name="bi"/>
+    </date>
+    <date when="1804-09-20">
+        <ref target="Brief007ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (fragment) (probably Berlin, probably 20 September                     1804)" folder_name="bi"/>
+    </date>
+    <date when="1818-03-28">
+        <ref target="Brief007wilkenanfakultaet.xml" title="Letter from Friedrich Wilken to the faculty of philosophy (Berlin, 28 March 1818)" folder_name="bi"/>
+    </date>
+    <date when="1823-01-18">
+        <ref target="Brief008Boeckh.xml" title="Letter from the Ministry of Culture to August Boeckh (Berlin, 18 January 1823)" folder_name="bi"/>
+    </date>
+    <date when="1804-10-01">
+        <ref target="Brief008ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (without place, end of October 1804)" folder_name="bi"/>
+    </date>
+    <date when="1818-07-17">
+        <ref target="Brief008fichteanwilken.xml" title="Letter from Immanuel Hermann Fichte to Friedrich Wilken (Berlin, 17 July 1818)" folder_name="bi"/>
+    </date>
+    <date when="1815-08-03">
+        <ref target="Brief009Boeckh.xml" title="Annual report of August Boeckh to the Ministry of the Interior (Berlin, 03 August 1815)" folder_name="bi"/>
+    </date>
+    <date when="1804-12-06">
+        <ref target="Brief009ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (without place, 6 December 1804)" folder_name="bi"/>
+    </date>
+    <date when="1816-09-20">
+        <ref target="Brief010Boeckh.xml" title="Annual report of August Boeckh to the Ministry of the Interior (Berlin, 20 September 1816)" folder_name="bi"/>
+    </date>
+    <date when="1817-08-10">
+        <ref target="Brief011Boeckh.xml" title="Annual report of August Boeckh to the Ministry of the Interior (Berlin, 10 August 1817)" folder_name="bi"/>
+    </date>
+    <date when="1805-03-01">
+        <ref target="Brief011ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (without place, 1 march 1805)" folder_name="bi"/>
+    </date>
+    <date when="1818-08-20">
+        <ref target="Brief012Boeckh.xml" title="Annual report of August Boeckh to the Ministry of Culture (Berlin, 20 August 1818)" folder_name="bi"/>
+    </date>
+    <date when="1819-09-20">
+        <ref target="Brief013Boeckh.xml" title="Annual report of August Boeckh to the Ministry of Culture (Berlin, 20 September 1819)" folder_name="bi"/>
+    </date>
+    <date when="1820-09-30">
+        <ref target="Brief014Boeckh.xml" title="Annual report of August Boeckh to the Ministry of Culture (Berlin, 30 September 1820)" folder_name="bi"/>
+    </date>
+    <date when="1821-10-12">
+        <ref target="Brief015Boeckh.xml" title="Annual report of August Boeckh to the Ministry of Culture (Berlin, 12 October 1821)" folder_name="bi"/>
+    </date>
+    <date when="1822-10-16">
+        <ref target="Brief016Boeckh.xml" title="Annual report of August Boeckh to the Ministry of Culture (Berlin, 16 October 1822)" folder_name="bi"/>
+    </date>
+    <date when="1823-10-06">
+        <ref target="Brief017Boeckh.xml" title="Annual report of August Boeckh to the Ministry of Culture (Berlin, 6 October 1823)" folder_name="bi"/>
+    </date>
+    <date when="1824-10-17">
+        <ref target="Brief018Boeckh.xml" title="Annual report of August Boeckh to the Ministry of Culture (Berlin, 17 October 1824)" folder_name="bi"/>
+    </date>
+    <date when="1825-10-27">
+        <ref target="Brief019Boeckh.xml" title="Annual report of August Boeckh to the Ministry of Culture (Berlin, 27 October 1825)" folder_name="bi"/>
+    </date>
+    <date when="1831-07-15">
+        <ref target="Brief01DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 15 July 1831)" folder_name="bi"/>
+    </date>
+    <date when="1836-11-04">
+        <ref target="Brief01FinckensteinanRaumer.xml" title="Letter from Henriette von Finckenstein to Friedrich von Raumer (Dresden, 4 November 1836)" folder_name="bi"/>
+    </date>
+    <date when="1815-03-30">
+        <ref target="Brief01TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Ziebingen, 30 March 1815)" folder_name="bi"/>
+    </date>
+    <date when="1759-04-30">
+        <ref target="Brief01vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (Blumenow, 30 April 1759)" folder_name="bi"/>
+    </date>
+    <date when="1761-12-05">
+        <ref target="Brief01vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Sankt Petersburg, 5 december 1761)" folder_name="bi"/>
+    </date>
+    <date when="1826-09-27">
+        <ref target="Brief020Boeckh.xml" title="Annual report of August Boeckh to the Ministry of Culture (Berlin, 27 September 1826)" folder_name="bi"/>
+    </date>
+    <date when="1807-01-16">
+        <ref target="Brief023ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (Vertus, 16 January 1807)" folder_name="bi"/>
+    </date>
+    <date when="1807-01-29">
+        <ref target="Brief024ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (Vertus, 29 January 1807)" folder_name="bi"/>
+    </date>
+    <date when="1810-05-07">
+        <ref target="Brief025ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (Vertus, 07 May 1810)" folder_name="bi"/>
+    </date>
+    <date when="1807-01-10">
+        <ref target="Brief026ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (Vertus, between 10 and 27 January 1807)" folder_name="bi"/>
+    </date>
+    <date when="1831-10-17">
+        <ref target="Brief02DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 17 October 1831)" folder_name="bi"/>
+    </date>
+    <date when="1818-02-02">
+        <ref target="Brief02TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Ziebingen, 2 March 1818)" folder_name="bi"/>
+    </date>
+    <date when="1760-10-31">
+        <ref target="Brief02vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (Magdeburg, 31 October 1760)" folder_name="bi"/>
+    </date>
+    <date when="1766-08-15">
+        <ref target="Brief02vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 15 August 1766)" folder_name="bi"/>
+    </date>
+    <date when="1812-06-01">
+        <ref target="Brief039ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (Geneva or Coppet, June or July 1812)" folder_name="bi"/>
+    </date>
+    <date when="1832-01-31">
+        <ref target="Brief03DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 31 January 1832)" folder_name="bi"/>
+    </date>
+    <date when="1821-11-01">
+        <ref target="Brief03TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (without place and date, probably Dresden, November                     1821)" folder_name="bi"/>
+    </date>
+    <date when="1761-01-15">
+        <ref target="Brief03vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (Magdeburg, 15 January 1761)" folder_name="bi"/>
+    </date>
+    <date when="1766-11-21">
+        <ref target="Brief03vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 21 novembre 1766)" folder_name="bi"/>
+    </date>
+    <date when="1811-08-16">
+        <ref target="Brief043ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (Geneva or Coppet, 16 August 1811)" folder_name="bi"/>
+    </date>
+    <date when="1811-04-01">
+        <ref target="Brief046ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (Geneva or Coppet, April or May 1811)" folder_name="bi"/>
+    </date>
+    <date when="1812-01-01">
+        <ref target="Brief047ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (Geneva, at the beginning of 1812)" folder_name="bi"/>
+    </date>
+    <date when="1811-05-01">
+        <ref target="Brief048ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (probably Coppet, May or June 1811)" folder_name="bi"/>
+    </date>
+    <date when="1811-01-01">
+        <ref target="Brief049ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (probably Geneva, autumn or winter 1811)" folder_name="bi"/>
+    </date>
+    <date when="1832-04-04">
+        <ref target="Brief04DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (fragment) (Dresden, 4 April 1832)" folder_name="bi"/>
+    </date>
+    <date when="1822-12-06">
+        <ref target="Brief04TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 6 December 1822)" folder_name="bi"/>
+    </date>
+    <date when="1761-08-13">
+        <ref target="Brief04vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (Magdeburg, 13 August 1761)" folder_name="bi"/>
+    </date>
+    <date when="1766-12-25">
+        <ref target="Brief04vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 25 décembre 1766)" folder_name="bi"/>
+    </date>
+    <date when="1812-01-01">
+        <ref target="Brief050ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (Geneva or Coppet, in the spring of 1812)" folder_name="bi"/>
+    </date>
+    <date when="1814-05-01">
+        <ref target="Brief053ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (fragment) (probably Berlin, probably May or June                     1814)" folder_name="bi"/>
+    </date>
+    <date when="1821-03-22">
+        <ref target="Brief054ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (probably Berlin, probably 21 March 1821)" folder_name="bi"/>
+    </date>
+    <date when="1815-01-23">
+        <ref target="Brief059ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de la Foye (probably Berlin, 23 January 1815)" folder_name="bi"/>
+    </date>
+    <date when="1834-01-01">
+        <ref target="Brief05DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (fragment) (without place, without date)" folder_name="bi"/>
+    </date>
+    <date when="1823-07-30">
+        <ref target="Brief05TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Teplitz, 30 July 1823)" folder_name="bi"/>
+    </date>
+    <date when="1761-11-19">
+        <ref target="Brief05vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (Magdeburg, 19 November 1761)" folder_name="bi"/>
+    </date>
+    <date when="1767-01-02">
+        <ref target="Brief05vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 2 January 1767)" folder_name="bi"/>
+    </date>
+    <date when="1819-01-01">
+        <ref target="Brief060ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de la Foye (probably Berlin, probably between beginning of 1819 and 20                     March 1819)" folder_name="bi"/>
+    </date>
+    <date when="1821-03-22">
+        <ref target="Brief067ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (probably Schöneberg (Berlin), 30 January 182)1" folder_name="bi"/>
+    </date>
+    <date when="1821-03-01">
+        <ref target="Brief068ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (probably Schöneberg (Berlin), 1 March 1821)" folder_name="bi"/>
+    </date>
+    <date when="1832-12-15">
+        <ref target="Brief06DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 15 December 1832)" folder_name="bi"/>
+    </date>
+    <date when="1823-09-15">
+        <ref target="Brief06TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 15 September 1823)" folder_name="bi"/>
+    </date>
+    <date when="1761-12-28">
+        <ref target="Brief06vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre /Magdeburg, 28 December 1761)" folder_name="bi"/>
+    </date>
+    <date when="1767-02-07">
+        <ref target="Brief06vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 7 February 1767)" folder_name="bi"/>
+    </date>
+    <date when="1833-03-08">
+        <ref target="Brief07DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 8 March 1833)" folder_name="bi"/>
+    </date>
+    <date when="1823-10-06">
+        <ref target="Brief07TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 6 October 1823)" folder_name="bi"/>
+    </date>
+    <date when="1762-01-04">
+        <ref target="Brief07vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (Magdeburg, 4 January 1762)" folder_name="bi"/>
+    </date>
+    <date when="1767-03-01">
+        <ref target="Brief07vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 1 March 1767)" folder_name="bi"/>
+    </date>
+    <date when="1833-05-20">
+        <ref target="Brief08DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 20 May 1833)" folder_name="bi"/>
+    </date>
+    <date when="1823-10-10">
+        <ref target="Brief08TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 10 October 1823)" folder_name="bi"/>
+    </date>
+    <date when="1762-01-12">
+        <ref target="Brief08vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (Magdeburg, 12 January 1762)" folder_name="bi"/>
+    </date>
+    <date when="1767-04-16">
+        <ref target="Brief08vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 16 April 1767)" folder_name="bi"/>
+    </date>
+    <date when="1833-07-22">
+        <ref target="Brief09DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 22 July 1833)" folder_name="bi"/>
+    </date>
+    <date when="1823-11-27">
+        <ref target="Brief09TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 27 November 1823)" folder_name="bi"/>
+    </date>
+    <date when="1762-01-21">
+        <ref target="Brief09vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (Magdeburg, 21 January 1762)" folder_name="bi"/>
+    </date>
+    <date when="1767-04-20">
+        <ref target="Brief09vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 20 April 1767)" folder_name="bi"/>
+    </date>
+    <date when="1830-04-17">
+        <ref target="Brief101VarnhagenanBoeckh.xml" title="Letter from Karl August Varnhagen von Ense to August Boeckh (Berlin, 17 April 1830)" folder_name="bi"/>
+    </date>
+    <date when="1830-04-21">
+        <ref target="Brief102BoeckhanVarnhagen.xml" title="Letter from August Boeckh to Karl August Varnhagen von Ense (Berlin, 21 April 1830)" folder_name="bi"/>
+    </date>
+    <date when="1834-03-28">
+        <ref target="Brief103BoeckhanVarnhagen.xml" title="Letter from August Boeckh to Karl August Varnhagen von Ense (Berlin, 28 March 1834)" folder_name="bi"/>
+    </date>
+    <date when="1834-06-20">
+        <ref target="Brief104BoeckhanVarnhagen.xml" title="Letter from August Boeckh to Karl August Varnhagen von Ense (Berlin, 20 June 1834)" folder_name="bi"/>
+    </date>
+    <date when="1836-06-07">
+        <ref target="Brief105BoeckhanVarnhagen.xml" title="Letter from August Boeckh to Karl August Varnhagen von Ense (Berlin, 7 June 1836)" folder_name="bi"/>
+    </date>
+    <date when="1837-06-01">
+        <ref target="Brief106BoeckhanVarnhagen.xml" title="Letter from August Boeckh to Karl August Varnhagen von Ense (Berlin, 1 June 1837)" folder_name="bi"/>
+    </date>
+    <date when="1840-12-03">
+        <ref target="Brief107BoeckhanVarnhagen.xml" title="Letter from August Boeckh to Karl August Varnhagen von Ense (Berlin, 3 December 1840)" folder_name="bi"/>
+    </date>
+    <date when="1841-05-29">
+        <ref target="Brief108BoeckhanVarnhagen.xml" title="Letter from August Boeckh to Karl August Varnhagen von Ense (Berlin, 29 May 1841)" folder_name="bi"/>
+    </date>
+    <date when="1844-03-29">
+        <ref target="Brief109BoeckhanVarnhagen.xml" title="Letter from August Boeckh to Karl August Varnhagen von Ense (Berlin, 29 March 1844)" folder_name="bi"/>
+    </date>
+    <date when="1833-09-12">
+        <ref target="Brief10DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 12 September 1833)" folder_name="bi"/>
+    </date>
+    <date when="1824-03-14">
+        <ref target="Brief10TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 14 march 1824)" folder_name="bi"/>
+    </date>
+    <date when="1762-01-21">
+        <ref target="Brief10vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (probably Magdeburg, between 21 January and 23 February                     1762)" folder_name="bi"/>
+    </date>
+    <date when="1767-04-01">
+        <ref target="Brief10vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, April 1767)" folder_name="bi"/>
+    </date>
+    <date when="1845-11-30">
+        <ref target="Brief110BoeckhanVarnhagen.xml" title="Letter from August Boeckh to Karl August Varnhagen von Ense (Berlin, 30 November 1845)" folder_name="bi"/>
+    </date>
+    <date when="1858-04-16">
+        <ref target="Brief111BoeckhanAssing.xml" title="Letter from August Boeckh to Ludmilla Assing (Berlin, 16 April 1858)" folder_name="bi"/>
+    </date>
+    <date when="1812-08-27">
+        <ref target="Brief111ChamissoandeLaFoye.xml" title="Letter from Adelbert von Chamisso to Louis de La Foye (Schaffhausen, 27 August 1812)" folder_name="bi"/>
+    </date>
+    <date when="1859-04-16">
+        <ref target="Brief112BoeckhanAssing.xml" title="Letter from August Boeckh to Ludmilla Assing (Berlin, 16 April 1859)" folder_name="bi"/>
+    </date>
+    <date when="1833-10-30">
+        <ref target="Brief11DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 30 October 1833)" folder_name="bi"/>
+    </date>
+    <date when="1824-05-06">
+        <ref target="Brief11TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 6 May 1824)" folder_name="bi"/>
+    </date>
+    <date when="1762-02-23">
+        <ref target="Brief11vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (Magdeburg, 23 February 1762)" folder_name="bi"/>
+    </date>
+    <date when="1767-04-20">
+        <ref target="Brief11vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 20 April 1767)" folder_name="bi"/>
+    </date>
+    <date when="1834-06-20">
+        <ref target="Brief12DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 20 June 1834)" folder_name="bi"/>
+    </date>
+    <date when="1825-12-06">
+        <ref target="Brief12TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 6 December 1825)" folder_name="bi"/>
+    </date>
+    <date when="1762-03-12">
+        <ref target="Brief12vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (Magdeburg, 12 March 1762" folder_name="bi"/>
+    </date>
+    <date when="1767-06-01">
+        <ref target="Brief12vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 1 June 1767)" folder_name="bi"/>
+    </date>
+    <date when="1834-09-30">
+        <ref target="Brief13DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 30 September 1834)" folder_name="bi"/>
+    </date>
+    <date when="1825-12-10">
+        <ref target="Brief13TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 10 December 1825)" folder_name="bi"/>
+    </date>
+    <date when="1763-07-22">
+        <ref target="Brief13vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (Dresde, 22 July 1763)" folder_name="bi"/>
+    </date>
+    <date when="1767-01-01">
+        <ref target="Brief13vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 1767)" folder_name="bi"/>
+    </date>
+    <date when="1834-11-21">
+        <ref target="Brief14DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 21 November 1834)" folder_name="bi"/>
+    </date>
+    <date when="1826-01-11">
+        <ref target="Brief14TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 11 January 1826)" folder_name="bi"/>
+    </date>
+    <date when="1763-07-22">
+        <ref target="Brief14vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (Dresden, 7 October 1763)" folder_name="bi"/>
+    </date>
+    <date when="1767-08-14">
+        <ref target="Brief14vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 14 August 1767)" folder_name="bi"/>
+    </date>
+    <date when="1835-01-21">
+        <ref target="Brief15DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 21 January 1835)" folder_name="bi"/>
+    </date>
+    <date when="1826-02-18">
+        <ref target="Brief15TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 18 February 1826)" folder_name="bi"/>
+    </date>
+    <date when="1763-10-21">
+        <ref target="Brief15vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (Dresden, 21 October 1763)" folder_name="bi"/>
+    </date>
+    <date when="1767-08-21">
+        <ref target="Brief15vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 21 August 1767)" folder_name="bi"/>
+    </date>
+    <date when="1835-04-10">
+        <ref target="Brief16DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 10 April 1835)" folder_name="bi"/>
+    </date>
+    <date when="1826-04-28">
+        <ref target="Brief16TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 28 April 1826)" folder_name="bi"/>
+    </date>
+    <date when="1763-11-30">
+        <ref target="Brief16vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (Dresden, 30 November and 2 December 1763)" folder_name="bi"/>
+    </date>
+    <date when="1767-08-31">
+        <ref target="Brief16vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 31 August 1767)" folder_name="bi"/>
+    </date>
+    <date when="1835-07-27">
+        <ref target="Brief17DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 27 July 1835)" folder_name="bi"/>
+    </date>
+    <date when="1826-06-22">
+        <ref target="Brief17TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Teplitz, 22 June 1826)" folder_name="bi"/>
+    </date>
+    <date when="1763-12-16">
+        <ref target="Brief17vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (Dresden, 16 and 18 December 1763)" folder_name="bi"/>
+    </date>
+    <date when="1767-09-07">
+        <ref target="Brief17vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 7 septembre 1767)" folder_name="bi"/>
+    </date>
+    <date when="1835-10-07">
+        <ref target="Brief18DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 7 October 1835)" folder_name="bi"/>
+    </date>
+    <date when="1826-07-31">
+        <ref target="Brief18TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 31 July 1826)" folder_name="bi"/>
+    </date>
+    <date when="1763-12-23">
+        <ref target="Brief18vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (Dresden, 23 December 1763)" folder_name="bi"/>
+    </date>
+    <date when="1767-10-12">
+        <ref target="Brief18vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 21 October 1767)" folder_name="bi"/>
+    </date>
+    <date when="1835-12-30">
+        <ref target="Brief19DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 30 December 1835)" folder_name="bi"/>
+    </date>
+    <date when="1826-08-14">
+        <ref target="Brief19TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 14 august 1826)" folder_name="bi"/>
+    </date>
+    <date when="1764-06-08">
+        <ref target="Brief19vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (Dresden, 8 June 1764)" folder_name="bi"/>
+    </date>
+    <date when="1767-11-02">
+        <ref target="Brief19vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 2 novembre 1767)" folder_name="bi"/>
+    </date>
+    <date when="1836-01-20">
+        <ref target="Brief20DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 20 January 1836)" folder_name="bi"/>
+    </date>
+    <date when="1828-03-01">
+        <ref target="Brief20TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, March 1828)" folder_name="bi"/>
+    </date>
+    <date when="1764-08-10">
+        <ref target="Brief20vonBuchanBeausobre.xml" title="Letter from Adolf von Buch to Louis de Beausobre (Dresden, 10 August 1764)" folder_name="bi"/>
+    </date>
+    <date when="1767-12-03">
+        <ref target="Brief20vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 3 Decembre 1767)" folder_name="bi"/>
+    </date>
+    <date when="1836-04-07">
+        <ref target="Brief21DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 7 April 1836)" folder_name="bi"/>
+    </date>
+    <date when="1828-10-06">
+        <ref target="Brief21TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Jena, 6 October 1828)" folder_name="bi"/>
+    </date>
+    <date when="1768-01-28">
+        <ref target="Brief21vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 28 January 1768)" folder_name="bi"/>
+    </date>
+    <date when="1836-07-10">
+        <ref target="Brief22DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 10 July 1836)" folder_name="bi"/>
+    </date>
+    <date when="1830-02-03">
+        <ref target="Brief22TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 3 February 1830)" folder_name="bi"/>
+    </date>
+    <date when="1768-02-22">
+        <ref target="Brief22vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 22 February 1768)" folder_name="bi"/>
+    </date>
+    <date when="1836-08-16">
+        <ref target="Brief23DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 16 August 1836)" folder_name="bi"/>
+    </date>
+    <date when="1830-06-05">
+        <ref target="Brief23TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 5 June 1830)" folder_name="bi"/>
+    </date>
+    <date when="1768-03-14">
+        <ref target="Brief23vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 14 March 1768)" folder_name="bi"/>
+    </date>
+    <date when="1836-10-31">
+        <ref target="Brief24DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (fragment) (without place, without date)" folder_name="bi"/>
+    </date>
+    <date when="1832-06-23">
+        <ref target="Brief24TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 23 June or January 1832)" folder_name="bi"/>
+    </date>
+    <date when="1768-04-16">
+        <ref target="Brief24vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 16 April 1768)" folder_name="bi"/>
+    </date>
+    <date when="1836-11-01">
+        <ref target="Brief25DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 1 November 1836)" folder_name="bi"/>
+    </date>
+    <date when="1832-07-07">
+        <ref target="Brief25TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 7 or 27 July 1832)" folder_name="bi"/>
+    </date>
+    <date when="1768-05-27">
+        <ref target="Brief25vonJAEuleranJHSFormey.xml" title="Letter from John Albert Euler to Jean Henri Samuel Formey (Saint Petersburg, 27 May 1768)" folder_name="bi"/>
+    </date>
+    <date when="1836-12-27">
+        <ref target="Brief26DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 27 December 1836)" folder_name="bi"/>
+    </date>
+    <date when="1832-08-05">
+        <ref target="Brief26TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 7 or 5 August 1832)" folder_name="bi"/>
+    </date>
+    <date when="1837-03-06">
+        <ref target="Brief27DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 6 March 1837)" folder_name="bi"/>
+    </date>
+    <date when="1834-01-04">
+        <ref target="Brief27TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 4 Jannuary 1834)" folder_name="bi"/>
+    </date>
+    <date when="1837-04-06">
+        <ref target="Brief28DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 6 April 1837)" folder_name="bi"/>
+    </date>
+    <date when="1834-02-28">
+        <ref target="Brief28TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 28 February 1834)" folder_name="bi"/>
+    </date>
+    <date when="1837-11-10">
+        <ref target="Brief29DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 10 November 1837)" folder_name="bi"/>
+    </date>
+    <date when="1836-11-11">
+        <ref target="Brief29TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 11 November 1836)" folder_name="bi"/>
+    </date>
+    <date when="1837-09-25">
+        <ref target="Brief30DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 25 September 1837)" folder_name="bi"/>
+    </date>
+    <date when="1837-07-27">
+        <ref target="Brief30TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 27 July 1837)" folder_name="bi"/>
+    </date>
+    <date when="1839-01-07">
+        <ref target="Brief31DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 7 January 1839)" folder_name="bi"/>
+    </date>
+    <date when="1838-03-27">
+        <ref target="Brief31TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 27 March 1838)" folder_name="bi"/>
+    </date>
+    <date when="1839-09-24">
+        <ref target="Brief32DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 24 September 1839)" folder_name="bi"/>
+    </date>
+    <date when="1838-11-15">
+        <ref target="Brief32TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 15 November 1838)" folder_name="bi"/>
+    </date>
+    <date when="1840-12-28">
+        <ref target="Brief33DorotheaTieckanUechtritz.xml" title="Letter from Dorothea Tieck to Friedrich von Uechtritz (Dresden, 28 December 1840)" folder_name="bi"/>
+    </date>
+    <date when="1839-11-09">
+        <ref target="Brief33TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 9 November 1839)" folder_name="bi"/>
+    </date>
+    <date when="1840-02-18">
+        <ref target="Brief34TieckanRaumer.xml" title="Letter from Ludwig Tieck to Friedrich von Raumer (Dresden, 18 February to 2 March 1840)" folder_name="bi"/>
+    </date>
+    <date when="1817-01-01">
+        <ref target="IHFichte_Die_Aufgabe_der_Philosophie.xml" title="About the notion of philosophy pp." folder_name="bi"/>
+    </date>
+    <date when="1844-07-29">
+        <ref target="Nachschrift_zum_Brief_der_Guenderode.xml" title="Postscript to the letter from Günderode." folder_name="bi"/>
+    </date>
+    <date when="1836-01-01">
+        <ref target="Reinbold_Literaturbrief.xml" title="&#34;His very best, Mr. Ludwig Tieck&#34;. Literary letter" folder_name="bi"/>
+    </date>
+    <date when="1790-12-31">
+        <ref target="Roxane.xml" title="Roxane. Tragedy in 3 acts" folder_name="bi"/>
+    </date>
+    <date when="1815-11-16">
+        <ref target="Sandmann.xml" title="The Sandman" folder_name="bi"/>
+    </date>
+    <date when="1813-01-01">
+        <ref target="Schlemiel.xml" title="Peter Schlemiel's Miraculous Story (transcript)" folder_name="bi"/>
+    </date>
+</timeline>
