@@ -196,6 +196,7 @@
 			</correspDesc>
 		</profileDesc>
 		<revisionDesc status="final_publication">
+			<change when-iso="2023-06-28" who="#floriane.chiffoleau">Fixed a named entity reference</change>
 			<change when-iso="2021-07-12" who="#floriane.chiffoleau">Changed the content of the @facs to match the IIIF link</change>
 			<change when-iso="2021-05-17" who="#floriane.chiffoleau">Upgrading TEI encoding (body)</change>
 			<change when-iso="2021-03-01" who="#floriane.chiffoleau">Upgrading TEI encoding (header)</change>
@@ -227,7 +228,7 @@
 					n’est pas la seule obligation, que je Vous ai. Vous Vous êtes <lb/>chargé de mes commissions, et Vous Vous en êtes acquitté avec
 					une promptitude, que <lb/>je reconnois avec bien des remerciements. Je voudrois en revange pouvoir rendre mes <lb/>lettres
 					interessantes par des nouvelles politiques, mais on a ici tres peu de nouvelles <lb/>des armées et encore moins de positifs. Le
-					Roi, apres avoir passé l’<placeName ref="#l0024" type="bi">Elbe</placeName> près de <placeName ref="#l0010" type="bi">Des<lb
+					Roi, apres avoir passé l’<placeName ref="#l0024" type="bi">Elbe</placeName> près de <placeName ref="#l0268" type="bi">Des<lb
 							break="no"/>sau</placeName>, s’est joint aux corps de <persName ref="#p0004" type="bi"><unclear cert="high"
 							>Hülsen</unclear>
 					</persName>et du <persName ref="#p0005" type="bi">Prince de Wurtemberg</persName> et marche de <lb/>nouveau vers <placeName
